@@ -319,10 +319,12 @@ If you use this work in your research or project, please cite:
 
 # 👨‍💻 Author
 
-**Giridharan P**
+**Ashwin Sathappan**
 
 Information Technology Engineer
 
 IEEE Author
 
 AI | Computer Vision | Deep Learning | Machine Learning
+
+GitHub: https://github.com/AshwinSathappan
