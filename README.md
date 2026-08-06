@@ -319,11 +319,10 @@ If you use this work in your research or project, please cite:
 
 # 👨‍💻 Author
 
-**Bhuvan Kalyan G V**
+**Giridharan P**
 
 Information Technology Engineer
 
 IEEE Author
 
 AI | Computer Vision | Deep Learning | Machine Learning
-
